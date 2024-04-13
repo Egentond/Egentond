@@ -10,7 +10,7 @@ I'm currently a second-year Computer Science student at Trinity College Dublin, 
 
 ## Projects
 - **Mortgage Analytics with CreditLogic**: Worked as a backend developer on this project for client CreditLogic (Dublin based SAAS Company), in creating a system that could identify
-- bottlenecks in the mortgage process in order for the client to easily distinguish between possible leads for getting a mortgage.
+  bottlenecks in the mortgage process in order for the client to easily distinguish between possible leads for getting a mortgage.
 - **Flight Scheduling**: Created a web page using Processing that managed US flight data and displayed useful information for user which allowed them to check times, dates, destinations, etc.
 - **Coursework**: Working on various academic projects that deepen my understanding of algorithms, data structures, and software design principles.
 
