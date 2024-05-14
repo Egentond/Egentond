@@ -5,7 +5,7 @@ I'm currently a second-year Computer Science student at Trinity College Dublin, 
 
 ## Technical Skills
 - **Programming Languages:** Proficient in Java, C, and Processing
-- **Web Development:** Experienced with HTML, CSS, and frameworks like Spring Boot
+- **Web Development:** Experienced with HTML, CSS, JavaScript and frameworks like Express.js, SpringBoot and Angular.jssss
 - **Tools & Technologies:** Git, GitHub, IntelliJ, Visual Studio Code
 
 ## Projects
