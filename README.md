@@ -4,9 +4,9 @@
 I'm currently a second-year Computer Science student at Trinity College Dublin, passionate about building software and exploring new technologies. I thrive in environments where I can solve challenging problems and collaborate with others to bring innovative ideas to life.
 
 ## Technical Skills
-- **Programming Languages:** Proficient in Java, C, and Processing
-- **Web Development:** Experienced with HTML, CSS, JavaScript and frameworks like ExpressJS, SpringBoot and Angular
-- **Tools & Technologies:** Git, GitHub, IntelliJ, Visual Studio Code, MongoDB
+- **Programming Languages:** Proficient in Java, JavaScript, and Python
+- **Web Development:** Experienced with frameworks like React and ExpressJS
+- **Tools & Technologies:** Git, VSCode, MongoDB, AWS
 
 ## Projects
 - **Mortgage Analytics with CreditLogic**: Worked as a backend developer on this project for client CreditLogic (Dublin based SAAS Company), in creating a system that could identify
