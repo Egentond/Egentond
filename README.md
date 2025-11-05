@@ -1,7 +1,7 @@
 # Hello, I'm Daniel Egenton! 👋
 
 ## About Me
-I'm currently a second-year Computer Science student at Trinity College Dublin, passionate about building software and exploring new technologies. I thrive in environments where I can solve challenging problems and collaborate with others to bring innovative ideas to life.
+I'm a Computer Science student at Trinity College Dublin, passionate about building software and exploring new technologies. I thrive in environments where I can solve challenging problems and collaborate with others to bring innovative ideas to life.
 
 ## Technical Skills
 - **Programming Languages:** Proficient in Python, Java and JavaScript, 
