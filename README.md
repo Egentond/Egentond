@@ -4,8 +4,8 @@
 I'm currently a second-year Computer Science student at Trinity College Dublin, passionate about building software and exploring new technologies. I thrive in environments where I can solve challenging problems and collaborate with others to bring innovative ideas to life.
 
 ## Technical Skills
-- **Programming Languages:** Proficient in Java, JavaScript, and Python
-- **Web Development:** Experienced with frameworks like React and ExpressJS
+- **Programming Languages:** Proficient in Python, Java and JavaScript, 
+- **Web Development:** Worked with frameworks like React and ExpressJS
 - **Tools & Technologies:** Git, VSCode, MongoDB, AWS
 
 ## Projects
